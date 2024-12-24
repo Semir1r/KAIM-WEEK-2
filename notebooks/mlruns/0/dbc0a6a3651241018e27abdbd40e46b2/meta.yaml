@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Administrator/Desktop/KAIM/Telecom_Analysis/Telecom-Analysis/notebooks/mlruns/0/dbc0a6a3651241018e27abdbd40e46b2/artifacts
+end_time: 1735041454863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbc0a6a3651241018e27abdbd40e46b2
+run_name: victorious-asp-928
+run_uuid: dbc0a6a3651241018e27abdbd40e46b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735041423175
+status: 3
+tags: []
+user_id: Administrator
