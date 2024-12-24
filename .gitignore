@@ -2,3 +2,4 @@
 .env
 /data
 /venv
+user_scores.csv
